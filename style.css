@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+    margin: 10px;
+}
+h1{
+    font-size: 20px;
+}
+b{
+    font-size: 16px; 
+}
